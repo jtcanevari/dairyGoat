@@ -1,0 +1,59 @@
+short,long,typeOfDate,dataType,colWidth,selected,order,DataFormat,Country,DecimalPlaces
+"NOBORN","Number Born",0,4,1245,0,,,,0
+"NUMSVS","Number Services",0,4,1590,0,,,,0
+"FATPT","Prev Tot Fat",0,4,1170,0,,,,0
+"MLKPT","Prev Tot Milk",0,4,1290,0,,,,0
+"SOLPT","Prev Tot Msolids",0,4,1575,0,,,,0
+"PROPT","Prev Tot Protein",0,4,1545,0,,,,0
+"REMOVE","Removal Date",0,8,1305,0,,,,0
+"SIRLID","Sire Lifetime ID",0,10,1410,0,,,,0
+"SIRENA","Sire name",0,10,2775,0,,,,0
+"CCTST","Test Cell Count",1,4,2400,0,,,,0
+"FATTST","Test Fat",1,5,1845,0,,"0.00",,2
+"MLKTST","Test Milk",1,5,1875,0,,,,1
+"SOLTST","Test Milksolids",1,5,2355,0,,"0.00",,2
+"SOLPC","Test Mlksolid %",1,5,2415,0,,"0.00%",,2
+"PROTST","Test Protein",1,5,2130,0,,"0.00",,2
+"PROPC","Test Protein %",1,5,2325,0,,"0.00%",,2
+"VALTST","Test Value",1,5,2010,0,,"Currency",,2
+"FATTOT","Total Fat",0,4,870,0,,,,0
+"MLKTOT","Total Milk",0,4,990,0,,,,0
+"SOLTOT","Total Milksolids",0,4,1470,0,,,,0
+"PROTOT","Total Protein",0,4,1245,0,,,,0
+"WEIGHT","Weight",3,4,1695,0,,,,0
+"FATPC","Test Fat %",1,5,1995,0,,"0.00%",,2
+"DIM","Days in Milk",0,4,1140,0,,,,0
+"AGE","Age",0,10,435,0,,,,0
+"BIRTH","Birth Date",0,8,960,0,,,,0
+"BREED","Breed",0,10,600,0,,,,0
+"CLFFTE","Calf Fate",0,10,870,0,,,,0
+"CLFLID","Calf Lifetime ID",0,10,1417,0,,,,0
+"CLFSEX","Calf Sex",0,10,810,0,,,,0
+"CLVDAT","Calving Date",0,8,1200,0,,,,0
+"CLVCON","Calving to Conc",0,4,1455,0,,,,0
+"CLVS1","Calving to Serv1",0,4,1515,0,,,,0
+"CLVTYP","Calving Type",0,10,1215,0,,,,0
+"CS","Condition score",4,5,2430,0,,,,1
+"DAMLID","Dam Lifetime ID",0,10,1455,0,,,,0
+"DAMNA","Dam Name",0,10,2775,0,,,,0
+"DAMNO","Dam Number",0,10,1185,0,,,,0
+"DODTE","Drying Off Date",0,8,1470,0,,,,0
+"DUEDAT","Due Calving Date",0,8,1605,0,,,,0
+"DUESIR","Due Sire",0,10,840,0,,,,0
+"FERTST","Fertility Status",0,10,1320,0,,,,0
+"FHDTE","First Heat Date",0,8,1395,0,,,,0
+"FSVDTE","First Mate Date",0,8,1410,0,,,,0
+"LACTNO","Lactation Number",0,10,1605,0,,,,0
+"LACTST","Lactation Status",0,10,1500,0,,,,0
+"LHDTE","Last Heat Date",0,8,1395,0,,,,0
+"LSVDTE","Last Mate Date",0,8,1410,0,,,,0
+"LSTPSM","Last PSM Date",0,8,1380,0,,,,0
+"LID","Cow Lifetime ID",0,10,1440,0,,,,0
+"FATLTD","LTD Fat",2,4,1785,0,,,,0
+"MLKLTD","LTD Milk",2,4,1905,0,,,,0
+"SOLLTD","LTD Milksolids",2,4,2385,0,,,,0
+"PROLTD","LTD Protein",2,4,2160,0,,,,0
+"VALLTD","LTD Value",2,4,2040,0,,"Currency",,0
+"MSCC","Mean Cell Count",0,4,1500,0,,,,0
+"NAME","Cow Name",0,10,2775,0,,,,0
+"NUMBER","Cow Number",0,10,1170,1,1,,,0

@@ -1,0 +1,5 @@
+PARClassCode,PARClassName
+"0","Not controlled (i.e. OTC)"
+"1","Must be prescribed by a vet"
+"2","Must be administered by or in the presence of a vet"
+"3","Narcotic - register of type 3 drugs to be maintained and drugs to be kept under lock and key"

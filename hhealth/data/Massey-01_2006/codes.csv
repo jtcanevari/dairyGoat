@@ -1,0 +1,794 @@
+short,long,Alias,AliasPDA,notes,Country,inMin,LICCode,CodeFavourite,HistoricCode,CodeDescription,CodeID
+"1","One",,,,,,,0,0,,168
+"10DAYPERIOD","10 Days",,,,,,,0,0,,169
+"2","Two",,,,,,,0,0,,170
+"2INDUCT","Second induction",,,"01112000 GRA replaced",,,,0,0,,171
+"2LASTSERVICE","2nd Last Service",,,"13082000 GRA Fixed",,,,0,0,,172
+"2YEAR","2 Year Old",,,,,,,0,0,,173
+"3","Three",,,,,,,0,0,,174
+"3INDUCT","Third induction",,,"01112000 GRA Replaced",,,,0,0,,175
+"3LASTSERVICE","3rd Last Service",,,"13082000 GRA Fixed",,,,0,0,,176
+"3YEAR","3 Year Old",,,,,,,0,0,,177
+"4","Four",,,,,,,0,0,,178
+"4TO8YR","4 To 8 Year Old",,,,,,,0,0,,179
+"4YEAR","4 Year Old",,,,,,,0,0,,180
+"5","Five",,,,,,,0,0,,181
+"5TO6YR","5 To 6 Year Old",,,,,,,0,0,,182
+"5YEAR","5 Year Old",,,,,,,0,0,,183
+"6YEAR","6 Year Old",,,,,,,0,0,,184
+"7DAYPERIOD","7 Days",,,,,,,0,0,,185
+"7TO8YR","7 To 8 Year Old",,,,,,,0,0,,186
+"7YEAR","7 Year Old",,,,,,,0,0,,187
+"8YEAR","8 Year Old",,,,,,,0,0,,188
+"9PLUS","9+ Years Old",,,,,,,0,0,,189
+"ABOMASULCR","Abomasal ulcer",,,,,,"AM",0,0,,190
+"ABOMASUNSPEC","Abomassal disorder, unspecified",,,"05092000 GRA Added",,,"AM",0,0,,191
+"ABORT","Abortion",,,,,,"AB",0,0,,192
+"ABORTD","Aborted",,,,,,,0,0,,193
+"ABORTION","Abortion reasons",,,"08102000 GRA Added",,,"AB",0,0,,194
+"ABORTUNSPEC","Abortion, unspecified",,,"08102000 GRA Added",,,"AB",0,0,,195
+"ABREC","Abortion recorded",,,"04092000 GRA fixed",,,,0,0,,196
+"ABSCES","Abscess, unspecified",,,"13082000 GRA Fixed",,,"AC",0,0,,197
+"ABSUS","Abortion suspected",,,"13082000 GRA Fixed",,,,0,0,,198
+"ACALF","Autumn Calf",,,,,,,0,0,,199
+"ACCIDENT","Injury or Accident",,,"20112000 GRA Added",,,"IA",0,0,,200
+"ACRES","Acres",,,"30012001 GRA Added",,,,0,0,,201
+"ADD","Add",,,,,,,0,0,,202
+"ADDCODE","Add a new code",,,,,,,0,0,,203
+"ADDNEW","<Add New>",,,"11112001 GRA Added",,,,0,0,,775
+"ADVGP","Multiple Select",,,,,,,0,0,,204
+"AGE","Age",,,,,,,0,0,,205
+"AGEANA","Age Analysis",,,,,,,0,0,,206
+"AGEDSC","Age and DSC",,,"Age and Days Calved Analysis",,,,0,0,,207
+"AGEGP","Age Group",,,,,,,0,0,,208
+"AGEINDAYS","Age in Days",,,,,,,0,0,,209
+"AGESUM","Age Summary",,,,,,,0,0,,210
+"AI","AI Mating",,,,,,,0,0,,211
+"ALL","(All)",,,,,,,0,0,,212
+"ALTCOWNUM","Renumber Animal",,"Renumber","100.00.168 KJS changed",,,,0,0,,213
+"AM","am",,,,,,,0,0,,214
+"AMPUTA","Amputation",,,,,,,0,0,,215
+"ANAL","Analysis",,,,,,,0,0,,216
+"ANS","Anoestrus, no structures present",,,"30012001 GRA Changed",,,,0,0,,217
+"APLAS","Aplasia",,,,,,,0,0,,218
+"ARTHRDEG","Arthritis, degenerative",,,,,,"AR",0,0,,219
+"ARTHRI","Arthritis",,,,,,,0,0,,1
+"ARTHRITIS","Arthritis",,,"13082000 GRA Added",,,"AR",0,0,,2
+"ARTHRSEPT","Arthritis, septic",,,,,,"AR",0,0,,3
+"ARTHRUNSPEC","Arthritis, unspecified",,,"24042001 GRA Added",,,"AR",0,0,,4
+"ASCALV","Assisted calving",,,"also cull reason",,,"AS",0,0,,5
+"AUTBEF","Autumn Beef",,,,,,,0,0,,6
+"AUTBUL","Autumn Bull",,,,,,,0,0,,7
+"AUTCOW","Autumn Cow",,,,,,,0,0,,8
+"AUTHFR","Autumn Heifer",,,,,,,0,0,,9
+"AUTSTR","Autumn Steer",,,,,,,0,0,,10
+"AWF","Anoestrus, structures present",,,"30012001 GRA Changed",,,,0,0,,11
+"BACTERIOL","Bacteriology",,,,,,,0,0,,12
+"BADTYPE","Unsuitable type",,,,,,"TY",0,0,,13
+"BEEF","Beef",,,,,,,0,0,,14
+"BEHAV","Temperament",,,,,,"TE",0,0,,15
+"BI","Breeding Index",,,,,,,0,0,,16
+"BIOCHEM","Biochemistry",,,,,,,0,0,,17
+"BIRTH","Birth Date",,,,,,,0,0,,18
+"BITINGFLIES","Biting flies",,,"08102000 GRA Added",,,"LC",0,0,,19
+"BITINGLICE","Biting lice",,,"08102000 GRA Added",,,"LC",0,0,,20
+"BLACKLEG","Blackleg",,,,,,"BK",0,0,,21
+"BLEFT","Left Back",,,,,,"LR",0,0,,22
+"BLINDQ","Blind Quarter",,,"20112000 GRA Added",,,"BQ",0,0,,23
+"BLOAT","Bloat, frothy",,,,,,"BL",0,0,,24
+"BLOATGRAIN","Bloat, grain",,,,,,"BL",0,0,,25
+"BLOATREM","Bloat",,,,,,"BL",0,0,,26
+"BLOATUNSPEC","Bloat, unspecified",,,"24042001 GRA Added",,,"BL",0,0,,27
+"BLOOD","Blood sample",,,,,,,0,0,,28
+"BOBBIE","Bobbied",,,,,,,0,0,,29
+"BORN","Born",,,"30112001 GRA Added",,,,0,0,,777
+"BOTULISM","Botulism",,,,,,"OC",0,0,,30
+"BREED","Breed",,,,,,,0,0,,31
+"BRIGHT","Right Back",,,,,,"RR",0,0,,32
+"BRUCELLOSIS","Brucellosis",,,"also in cull",,,"BR",0,0,,33
+"BRUCELLOSISCULL","Brucellosis",,,"20112000 GRA Added",,,"OC",0,0,,34
+"BRUISE","Bruising",,,,,,"BS",0,0,,35
+"BULL","Bull",,,,,,,0,0,,36
+"BULLIN","Bull In",,,"03102000 GRA renamed from Join S",,,,0,0,,37
+"BULLOUT","Bull Out",,,"03102000 GRA renamed from Join E",,,,0,0,,38
+"BVD","BVD (Bovine virus diarrhoea)",,,"13082000 GRA Added",,,"BV",0,0,,39
+"CAE","CAE (Caprine Arthritis Encephalitis)",,,"08102000 GRA Added",,,"CA",0,0,,40
+"CAESAR","Caesarian",,,,,,,0,0,,41
+"CALF","Calf",,,,,,,0,0,,42
+"CALVDIS","Calving disorder, unspecified",,,"30082000 GRA Added",,,"CD",0,0,,43
+"CALVED","Calved",,,,,,,0,0,,44
+"CALVING","Calving",,,,,,,0,0,,45
+"CAMPYLO","Campylobacter",,,,,,,0,0,,46
+"CANCER","Cancer",,,,,,"CN",0,0,,47
+"CANCEREYE","Cancer eye",,,,,,"CE",0,0,,48
+"CANCERUNSPEC","Cancer, unspecified",,,"30082000 GRA Added",,,"CN",0,0,,49
+"CARDIOMISC","Cardiovascular disorder, unspecified",,,"05092000 GRA Added",,,"CV",0,0,,50
+"CASLICKS","Caslicks",,,,,,,0,0,,51
+"CCTST","Test Cell Count",,,,,,,0,0,,52
+"CDEANA","Code Analysis",,,,,,,0,0,,53
+"CELLS",,,,"Cell Count (000)",,,,0,0,,54
+"CERVIC","Cervicitis",,,,,,,0,0,,55
+"CHECK","Check",,,,,,,0,0,,56
+"CLAVULOX","Clavulox",,,,,,,0,0,,57
+"CLFFTE","Calf Fate",,,,,,,0,0,,58
+"CLFLID","Calf Lifetime ID",,,,,,,0,0,,59
+"CLFSEX","Calf Sex",,,,,,,0,0,,60
+"CLVBD","Brain damaged/retarded/spastic",,,"13082000 GRA Added",,,"BD",0,0,,61
+"CLVBI","Bowel or intestine abnormality",,,"13082000 GRA Added",,,"BI",0,0,,62
+"CLVBL","Calf blind",,,"13082000 GRA Added",,,"BL",0,0,,63
+"CLVBR","Breathing difficulties",,,"13082000 GRA Added",,,"BR",0,0,,64
+"CLVCL","Calf too large",,,"13082000 GRA Added",,,"CL",0,0,,65
+"CLVCON","Calving to Conception",,,"30082000 GRA Fixed",,,,0,0,,66
+"CLVCP","Cleft palate",,,"13082000 GRA Added",,,"CP",0,0,,67
+"CLVD2","Born dead, Calving Difficulty",,,"13082000 GRA Added",,,"D2",0,0,,68
+"CLVD3","Died within 1-4 days, Calving",,,"13082000 GRA Added",,,"D3",0,0,,69
+"CLVD4","Died after 4 days, Calving",,,"13082000 GRA Added",,,"D4",0,0,,70
+"CLVD5","Died, not calving difficulty",,,"13082000 GRA Added",,,"D5",0,0,,71
+"CLVDAT","Calving Date",,,,,,,0,0,,72
+"CLVDR","Difficult to rear, won't drink",,,"13082000 GRA Added",,,"DR",0,0,,73
+"CLVEC","Estimated calving date",,,"13082000 GRA Added",,,"EC",0,0,,74
+"CLVET","Extra teats",,,"13082000 GRA Added",,,"ET",0,0,,75
+"CLVHA","Hernia",,,"13082000 GRA Added",,,"HA",0,0,,76
+"CLVIN","Induced calf",,,"13082000 GRA Added",,,"IN",0,0,,77
+"CLVMF","Mulefoot",,,"13082000 GRA Added",,,"MF",0,0,,78
+"CLVMM","Mummified calf",,,"13082000 GRA Added",,,"MM",0,0,,79
+"CLVMP","Malpresentation/breech",,,"13082000 GRA Added",,,"MP",0,0,,80
+"CLVOD","Other deformity, Limbs",,,"13082000 GRA Added",,,"OD",0,0,,81
+"CLVPAR","Calving paralysis",,,"13082000 GRA Fixed",,,"CP",0,0,,82
+"CLVPL","Paralysed legs",,,"13082000 GRA Added",,,"PL",0,0,,83
+"CLVPO","Polled",,,"13082000 GRA Added",,,"PO",0,0,,84
+"CLVPR","Premature calf",,,"13082000 GRA Added",,,"PR",0,0,,85
+"CLVRC","Refer to comment",,,"13082000 GRA Added",,,"RC",0,0,,86
+"CLVRD","Red factor",,,"13082000 GRA Added",,,"RD",0,0,,87
+"CLVS1","Calving to 1st Service",,,"30082000 GRA Fixed",,,,0,0,,88
+"CLVSB","Still born",,,"13082000 GRA Added",,,"SB",0,0,,89
+"CLVSC","Scours",,,"13082000 GRA Added",,,"SC",0,0,,90
+"CLVSD","Spinal deformity",,,"13082000 GRA Added",,,"SD",0,0,,91
+"CLVSJ","Short jaw",,,"13082000 GRA Added",,,"SJ",0,0,,92
+"CLVSW","Swollen joints",,,"13082000 GRA Added",,,"SW",0,0,,93
+"CLVTD","Tail deformity/no tail",,,"13082000 GRA Added",,,"TD",0,0,,94
+"CLVTF","Twisted feet",,,"13082000 GRA Added",,,"TF",0,0,,95
+"CLVTYP","Calving Type",,,,,,,0,0,,96
+"CLVWS","Calf weak and/or small",,,"13082000 GRA Added",,,"WS",0,0,,97
+"COCCIDIOSIS","Coccidiosis",,,,,,"IL",0,0,,98
+"CODEANALYSIS","Code Analysis",,,,,,,0,0,,99
+"CODEGP","Code Group",,,,,,,0,0,,100
+"CODENOFAV","<No Favourites Defined>",,,"21112002 GRA Added",,,,0,0,,787
+"COLIBACILLOS","Colibacillosis",,,,,,"DI",0,0,,101
+"COMMENTS","Comments",,,,,,,0,0,,102
+"COMPARED","Compared",,,,,,,0,0,,103
+"CONTRL","Control",,,,,,,0,0,,104
+"CORONAV","Corona virus",,,"01102000 GRA Added",,,"DI",0,0,,105
+"COW","Adult Cow",,,,,,,0,0,,106
+"COWPADBWSTRING","String containing BW label",,,"10112001 GRA Added",,,,0,0,,772
+"COWPADCALFPREFIX","Calf Creation ID prefix",,,"27052002 GRA Added",,,,0,0,,783
+"COWPADCOUNTRY","Couuntry setting used for CowPAD",,,,,,,0,0,,107
+"COWPADEXPIRY","CowPAD Expiry Date",,,"15052002 GRA Added",,,,0,0,,781
+"COWPADLICTYPE","CowPAD licence type",,,"15052002 GRA Added",,,,0,0,,780
+"COWPADLWSTRING","String containing LW label",,,"10112001 GRA Added",,,,0,0,,774
+"COWPADNEWPDB","Y",,,"03062001 GRA Added",,,,0,0,,108
+"COWPADNODATA","Display nothing in CowPAD",,,"21052001 GRA Aded",,,,0,0,,109
+"COWPADPSMDAYS","PSM days",,,"30102002 GRA Added",,,,0,0,,786
+"COWPADPSMTYPE","PSM Date type",,,"30102002 GRA Added",,,,0,0,,785
+"COWPADPWSTRING","String containing PW label",,,"10112001 GRA Added",,,,0,0,,773
+"COWPADREADONLY","CowPAD read-only flag",,,"15052002 GRA Added",,,,0,0,,782
+"COWPADUSERID","Palm Pilot UserID",,,"15052002 GRA Added",,,,0,0,,779
+"COWPADUSERNAME","Palm Pilot username",,,"15052002 GRA Added",,,,0,0,,778
+"CRACKAB","Wall crack, abaxial",,,,,,"WC",0,0,,110
+"CRACKAX","Wall crack, axial",,,,,,"WC",0,0,,111
+"CRACKUNSPEC","Wall crack, unspecified",,,"24042001 GRA Added",,,"WC",0,0,,112
+"CRYPTOSP","Cryptosporidiosis",,,"01102000 GRA Added",,,"DI",0,0,,113
+"CS","Condition Score",,,,,,,0,0,,114
+"CSOLD","Sold",,,"Code used for calf fate. see also SOLD",,,,0,0,,115
+"CULLED","Culled (works)",,,,,,,0,0,,116
+"CYCCLP","Cycling, dioestrus",,,"30012001 GRA Changed",,,,0,0,,117
+"CYCNS","Cycling, no structures present",,,"30012001 GRA Changed",,,,0,0,,118
+"CYCOD","Cycling, metoestrus",,,"30012001 GRA Changed",,,,0,0,,119
+"CYCOH","Cycling, oestrus",,,"30012001 GRA Changed",,,,0,0,,120
+"CYCPRO","Cycling, proestrus",,,"30012001 GRA Changed",,,,0,0,,121
+"CYSTFOL","Cyst, follicular",,,,,,,0,0,,122
+"CYSTLUTEAL","Cyst, luteal",,,,,,,0,0,,123
+"CYSTOV","Cystic ovary",,,,,,,0,0,,124
+"DAIRY","For dairying",,,,,,"OC",0,0,,125
+"DAMLID","Dam Lifetime ID",,,,,,,0,0,,126
+"DAMNA","Dam Name",,,,,,,0,0,,127
+"DAMNO","Dam Number",,,,,,,0,0,,128
+"DATE","Date",,,,,,,0,0,,129
+"DAY","Day",,,,,,,0,0,,130
+"DDUNC","Date Unchanged",,,,,,,0,0,,131
+"DDUNK","Due Date Unknown",,,,,,,0,0,,132
+"DEFICCO","Cobalt Deficiency",,,,,,"CO",0,0,,133
+"DEFICCU","Copper Deficiency",,,,,,"CU",0,0,,134
+"DEFICNA","Sodium Deficiency",,,"01102000 GRA Added",,,"TC",0,0,,135
+"DEFICP","Phosphate Deficiency",,,"01102000 GRA Added",,,"TC",0,0,,136
+"DEFICSE","Selenium Deficiency",,,,,,"SD",0,0,,137
+"DEFINITE","Definite",,,"01102001 GRA Added","AUS",,,0,0,,138
+"DEFUNSPEC","Trace element deficiency, unspecified",,,"30082000 GRA Added",,,"TC",0,0,,139
+"DEHORN","Dehorn",,,,,,,0,0,,140
+"DERMATO","Dermatophylosis",,,"08102000 GRA Added",,,"SN",0,0,,141
+"DIED","Died",,,,,,,0,0,,142
+"DIFCLV","Calving trouble",,,,,,"CT",0,0,,143
+"DIM","Days in Milk",,,,,,,0,0,,144
+"DISCHA","Vaginal discharge",,,"13082000 GRA Fixed",,,"RP",0,0,,145
+"DISEAS","Disease",,,,,,,0,0,,146
+"DISLOCATION","Dislocation",,,,,,"DS",0,0,,147
+"DLAMENESS","Lame",,,"13082000 GRA Added",,,"LM",0,0,,148
+"DLAMEWCRK","Wall Crack",,,"18082000 GRA Added",,,"WC",0,0,,149
+"DMISCABOMAS","Abomassal disorders",,,"05092000 GRA Added",,,"AM",0,0,,150
+"DMISCBLOAT","Bloat",,,"24082000 GRA Added",,,"BL",0,0,,151
+"DMISCGASTRO","Intestinal disorders",,,"18082000 GRA Added",,,"IL",0,0,,152
+"DMISCILL","Severe ill Thrift/Weight Loss",,,"24082000 GRA Added",,,"IT",0,0,,153
+"DMISCILLUNSPEC","Severe ill Thrift, unspecified",,,"24082000 GRA Added",,,"IT",0,0,,154
+"DMISCLIVER","Liver disorders",,,"04092000 GRA Added",,,"LV",0,0,,155
+"DMISCLIVERUNSPEC","Liver disorder, unspecified",,,"24042001 GRA Added",,,"LV",0,0,,156
+"DMISCMOUTH","Mouth disorders",,,"01102000 GRA Added",,,"MO",0,0,,157
+"DMISCOTHER","Other conditions",,,"05092000 GRA Added",,,"OC",0,0,,158
+"DMISCOTHERUNSPEC","Other conditions, unspecified",,,"05092000 GRA Added",,,"OC",0,0,,159
+"DMISCRENAL","Renal disorder, unspecified",,,"24082000 GRA Added",,,"RE",0,0,,160
+"DMISCRESP","Respiratory disorders",,,"18082000 GRA Added",,,"RD",0,0,,161
+"DMISCRUMEN","Rumen disorder, unspecified",,,"05092000 GRA Added",,,"RU",0,0,,162
+"DMISCSCOUR","Diarrhoea/Scours",,,"24082000 GRA Added",,,"DI",0,0,,163
+"DMISCSICK","Sick, unspecified",,,"24082000 GRA Added",,,"SI",0,0,,164
+"DODTE","Drying Off Date",,,,,,,0,0,,165
+"DOUBT","Some doubt",,,"01102001 GRA Added","AUS",,,0,0,,166
+"DOWN","Downer cow",,,,,,"DC",0,0,,167
+"DRAINABSCESS","Drain abscess",,,,,,,0,0,,220
+"DRY","Dry",,,,,,,0,0,,221
+"DRYCOW","Dry Cow",,,,,,,0,0,,222
+"DRYOFF","Dry Off",,,,,,,0,0,,223
+"DSC","Days Calved",,,,,,,0,0,,224
+"DSCANA","DSC Analysis",,,,,,,0,0,,225
+"DSKINLICE","Lice",,,"08102000 GRA Added",,,"LC",0,0,,226
+"DTEANA","Date Analysis",,,,,,,0,0,,227
+"DUEDAT","Due Calving Date",,,,,,,0,0,,228
+"DUESIR","Due Sire",,,,,,,0,0,,229
+"EARLY","Too Early",,,,,,,0,0,,230
+"EBL","EBL (Enzootic bovine leukosis)",,,"03082000 GRA Fixed",,,"EB",0,0,,231
+"EC","Eczema, unspecified",,,"24082000 GRA Changed",,,"EC",0,0,,232
+"ECZEMA","Facial eczema",,,"24082000 GRA Changed",,,"FE",0,0,,233
+"EDIT","Edit a code",,,,,,,0,0,,234
+"EDITED","Edited",,,,,,,0,0,,235
+"EL","End Lactation",,,,,,"EL",0,0,,236
+"EMPTY","Empty",,,,,,,0,0,,237
+"ENDO","Endometritis",,,,,,,0,0,,238
+"ENTER","Create Animal",,,"100.00.168 KJS changed",,,,0,0,,239
+"ENTER_EVENTDISPLAY","Entered Herd",,,"100.00.168 KJS created",,,,0,0,,784
+"ENTERITIS","Enteritis",,,,,,"DI",0,0,,240
+"ENTEROTOX","Enterotoxaemia",,,,,,"OC",0,0,,241
+"EPHEMERALFEV","Ephemeral fever",,,,,,"OC",0,0,,242
+"EPISIOTOMY","Episiotomy",,,,,,,0,0,,243
+"ESCAPE","Cow Escaped",,,,,,,0,0,,244
+"ESHOCK","Electric Shock",,,"01102000 GRA Added",,,"OC",0,0,,245
+"ET","Embryo Transfer",,,"21052004 GRA Added",,,,0,0,,789
+"EXPCBI","Expected Calf BI",,,,,,,0,0,,246
+"EYEINJURY","Eye injury",,,"13082000 GRA Added",,,"EY",0,0,,247
+"FAECES","Faeces sample",,,,,,,0,0,,248
+"FARMER","Farmer",,,,,,,0,0,,249
+"FARMOFF","Off Farm",,,"01102001 GRA Added","AUS",,,0,0,,250
+"FARMON","On Farm",,,"01102001 GRA Added","AUS",,,0,0,,251
+"FAT","Fat",,,,,,,0,0,,252
+"FATLTD","LTD Fat",,,,,,,0,0,,253
+"FATPC","Test Fat %",,,"Test Fat %",,,,0,0,,254
+"FATPT","Prev Tot Fat",,,,,,,0,0,,255
+"FATTOT","Total Fat",,,,,,,0,0,,256
+"FATTST","Test Fat",,,,,,,0,0,,257
+"FERTST","Fertility Status",,,,,,,0,0,,258
+"FEVER","Fever",,,,,,"FV",0,0,,259
+"FHDTE","First Heat Date",,,,,,,0,0,,260
+"FIRSTINDUCT","First induction",,,"01112000 GRA Replaced",,,,0,0,,261
+"FLEFT","Left Front",,,,,,"LF",0,0,,262
+"FLTDAV",,,,"Fat LTD Average (kg)",,,,0,0,,263
+"FLTDT",,,,"Fat LTD Total (kg)",,,,0,0,,264
+"FM","Farm Management",,,,,,"FM",0,0,,265
+"FMUMMY","Mummified foetus",,,,,,"RP",0,0,,266
+"FOETOTOMY","Foetotomy",,,,,,,0,0,,267
+"FOETUS","Foetus sample",,,,,,,0,0,,268
+"FOOTRIM","Foot trim",,,,,,,0,0,,269
+"FORBEEF","For beef",,,,,,"OC",0,0,,270
+"FORGOT","Forgot",,,,,,,0,0,,271
+"FPLTDA",,,,"Fat and Protein LTD Average (kg)",,,,0,0,,272
+"FPLTDT",,,,"Fat and Protein LTD Total (kg)",,,,0,0,,273
+"FPPC",,,,"Test Fat and Protein %",,,,0,0,,274
+"FPTSTA",,,,"Fat and Protein Test Average (kg)",,,,0,0,,275
+"FPTSTT",,,,"Fat and Protein Test Total (kg)",,,,0,0,,276
+"FRACTURE","Fracture/Broken Leg",,,"04092000 GRA Fixed",,,"FC",0,0,,277
+"FREQ","Frequency (cows)",,,"Frequency (number of cows)",,,,0,0,,278
+"FREQPC","Freqency Percent",,,"Frequency Percent ( of cows)",,,,0,0,,279
+"FRESH","Fresh",,,"01102001 GRA Added","AUS",,,0,0,,280
+"FRIGHT","Right Front",,,,,,"RF",0,0,,281
+"FROZEN","Frozen",,,"01102001 GRA Added","AUS",,,0,0,,282
+"FSVDTE","First Mate Date",,,,,,,0,0,,283
+"FTC","Failure to conceive",,,"13082000 GRA Fixed",,,"OC",0,0,,284
+"FTROT","Footrot",,,,,,"FR",0,0,,285
+"FTSTAV",,,,"Fat Test Average (kg)",,,,0,0,,286
+"FTSTT",,,,"Fat Test Total (kg)",,,,0,0,,287
+"FUNGAL","Fungal",,,,,,,0,0,,288
+"GALLILC","Gallimycin",,,,"NZIRI",,,0,0,,289
+"GEOSCC","Geo. Mean Cells",,,,,,,0,0,,290
+"GESTATION","Gestation",,,"18112001 GRA Added",,,,0,0,,776
+"GRAINPOIS","Grain poisoning",,,"30082000 GRA renamed",,,"GR",0,0,,291
+"GRAZOF","Graze Off",,,,,,,0,0,,292
+"GRAZON","Graze On",,,,,,,0,0,,293
+"GSTAG","Magnesium/Grass staggers",,,"24082000 GRA Renamed",,,"MS",0,0,,294
+"GUTOBSRTUCT","Obstruction",,,"01102000 GRA Added",,,"IL",0,0,,295
+"HA","Hectares",,,"30012001 GRA Added",,,,0,0,,296
+"HAEMATOL","Haematology",,,,,,,0,0,,297
+"HAIR","Hair Sample",,,,,,,0,0,,298
+"HARDWARE","Hardware disease",,,,,,"IL",0,0,,299
+"HCELLS","Cell Count",,,"Bulk Milk Cell Count (000)",,,,0,0,,300
+"HEAT","Heat",,,,,,,0,0,,301
+"HEIFER","Mated Heifer",,,,,,,0,0,,302
+"HEPATNECROT","Heptitis, necrotic",,,,,,"LV",0,0,,303
+"HEPATUNSPEC","Heptitis, unspecified",,,"13082000 GRA Fixed",,,"LV",0,0,,304
+"HERD1","Herd 1",,,,,,,0,0,,305
+"HERD2","Herd 2",,,,,,,0,0,,306
+"HERDCODE","Herd Code",,,"18052001 GRA Added",,,,0,0,,307
+"HERDOWNER","Herd Owners name",,,"18052001 GRA Added",,,,0,0,,308
+"HFAT1","Fat/Period (kg)",,,"Fat/Period (kg)",,,,0,0,,309
+"HFAT2","Fat/Day (kg)",,,"Fat/Day (kg)",,,,0,0,,310
+"HFAT3","Fat/Cow/Day (kg)",,,"Fat/Cow/Day (kg)",,,,0,0,,311
+"HFAT4","Fat/Hec/Day (kg)",,,"Fat/Hectare/Day (kg)",,,,0,0,,312
+"HFATPC","Fat (%)",,,"Fat % for Period",,,,0,0,,313
+"HFP1","FP/Period",,,"Fat and Protein/Period (kg)",,,,0,0,,314
+"HFP2","FP/Day",,,"Fat and Protein/Day (kg)",,,,0,0,,315
+"HFP3","FP/Cow/Day",,,"Fat and Protein/Cow/Day (kg)",,,,0,0,,316
+"HFP4","FP/Hec/Day",,,"Fat and Protein/Hectare/Day (kg)",,,,0,0,,317
+"HFPKG","Fat and Pro (kg)",,,"Fat and Protein (kg)",,,,0,0,,318
+"HFPPC","Fat and Pro (kg)",,,"Fat and Protein % for Period",,,,0,0,,319
+"HFR","Heifer",,,,,,,0,0,,320
+"HGT","Height",,,,,,,0,0,,321
+"HIGHCELL","High cell count",,,"10102000 GRA Changed",,,"SC",0,0,,322
+"HISTOGRAM","Histogram",,,,,,,0,0,,323
+"HISTOPATH","Histopathology",,,,,,,0,0,,324
+"HLTHANA","Health Analysis",,,,,,,0,0,,325
+"HMILK1","Milk/Period (l)",,,"Milk/Period (l)",,,,0,0,,326
+"HMILK2","Milk/Day (l)",,,"Milk/Day (l)",,,,0,0,,327
+"HMILK3","Milk/Cow/Day(l)",,,"Milk/Cow/Day (l)",,,,0,0,,328
+"HMILK4","Milk/Hec/Day(l)",,,"Milk/Hectare/Day (l)",,,,0,0,,329
+"HPCOWS","Cows Milking",,,"Cows Milking",,,,0,0,,330
+"HPFRAT","Prot/Fat Ratio",,,"Protein/Fat Ratio",,,,0,0,,331
+"HPROPC","Protein (%)",,,"Protein % for Period",,,,0,0,,332
+"HPROT1","Protein/Period",,,"Protein/Period (kg)",,,,0,0,,333
+"HPROT2","Protein/Cow",,,"Protein/Cow (kg)",,,,0,0,,334
+"HPROT3","Potein/Cow/Day",,,"Protein/Cow/Day (kg)",,,,0,0,,335
+"HPROT4","Protein/Hec/Day",,,"Protein/Hectare/Day (kg)",,,,0,0,,336
+"HSOLPC","Solids (%)",,,"Milksolids % for Period",,,,0,0,,337
+"HSOLS1","Solids/Period",,,"Milksolids/Period (kg)",,,,0,0,,338
+"HSOLS2","Solids/Day",,,"Milksolids/Day (kg)",,,,0,0,,339
+"HSOLS3","Solids/Cow/Day",,,"Milksolids/Cow/Day (kg)",,,,0,0,,340
+"HSOLS4","Solids/Hec/Day",,,"Milksolids/Hectare/Day (kg)",,,,0,0,,341
+"HVAL1","Value/Period",,,"Value/Period ($)",,,,0,0,,342
+"HVAL2","Value/Cow",,,"Value/Cow ($)",,,,0,0,,343
+"HVAL3","Value/Cow/Day",,,"Value/Cow/Day ($)",,,,0,0,,344
+"HVAL4","Value/Hec/Day",,,"Value/Hectare/Day ($)",,,,0,0,,345
+"HYPOCALCAEM","Hypocalcaemia",,,,,,,0,0,,346
+"HYPOTHERMIA","Hypothermia",,,,,,"OC",0,0,,347
+"IATROGENIC","Iatrogenic",,,,,,,0,0,,348
+"IBR","IBR (Infectious bovine rhinotracheitis)",,,"13082000 GRA Added",,,"IB",0,0,,349
+"IGNORE","Ignore",,,,,,,0,0,,350
+"IN","Injured",,,,,,"IN",0,0,,351
+"INDIGESTION","Indigestion",,,,,,"IG",0,0,,352
+"INDIVID","Individuals",,,,,,,0,0,,353
+"INDUCE","Induced",,,,,,,0,0,,354
+"INERTIA","Uterine inertia",,,,,,,0,0,,355
+"INFUSE","Infusion",,,,,,,0,0,,356
+"INJURY","Injury",,,,,,"IN",0,0,,357
+"JOHNES","Johne's disease",,,"also in cull",,,"JD",0,0,,358
+"KETOS","Ketosis/Acidosis",,,"04092000 GRA Fixed",,,"KT",0,0,,359
+"LACERATION","Laceration/Cuts",,,"13082000 GRA Added",,,"LA",0,0,,360
+"LACT","Lactating",,,,,,,0,0,,361
+"LACTNO","Lactation Number",,,,,,,0,0,,362
+"LACTST","Lactation Status",,,,,,,0,0,,363
+"LALL","All lactations",,,,,,,0,0,,364
+"LAME","Lame, unspecified",,,"13082000 GRA Fixed",,,"LM",0,0,,365
+"LAMEBACK","Lame, spine",,,"24082000 GRA Changed",,,"LM",0,0,,366
+"LAMEFOOT","Lame, foot",,,,,,"LM",0,0,,367
+"LAMEREM","Lameness",,,,,,"FT",0,0,,368
+"LAMEUPPER","Lame, upper limb",,,"13082000 GRA Fixed",,,"LM",0,0,,369
+"LAMINITIS","Laminitis",,,,,,"LN",0,0,,370
+"LASTCALFID","Last Calf ID",,,"18052001 GRA Added",,,,0,0,,371
+"LASTCOWPADEXPORTDATE","Last CowPAD Export Date",,,"18052001 GRA Added",,,,0,0,,372
+"LASTEVENTKEY","Last Event Key",,,"18052001 GRA Added",,,,0,0,,373
+"LASTSERVICE","Last Service",,,"01112000 GRA replaced",,,,0,0,,374
+"LATECA","Late calver",,,,,,"LC",0,0,,375
+"LCRITD","Including a date",,,,,,,0,0,,376
+"LCUR","Most recent",,,,,,,0,0,,377
+"LDA","Abomasal displacement, left",,,,,,"AM",0,0,,378
+"LEOLC","Leo Yellow",,,,"NZIRI",,,0,0,,379
+"LEPTO","Leptospirosis",,,"also in vaccination",,,"LS",0,0,,380
+"LEPTOCULL","Leptospirosis",,,"20112000 GRA Added",,,"OC",0,0,,381
+"LHDTE","Last Heat Date",,,,,,,0,0,,382
+"LI","Lactation Index",,,,,,,0,0,,383
+"LICE","Lice, unspecified",,,"08102000 GRA changed",,,"LC",0,0,,384
+"LICENCEDTO","CowPAD Licensed to",,,"25052001 GRA Added",,,,0,0,,385
+"LID","Lifetime ID",,,,,,,0,0,,386
+"LIMITSIZE","Limit herd size",,,,,,"OC",0,0,,387
+"LISTERIA","Listeria",,,,,,"LI",0,0,,388
+"LIVER","Liver sample",,,,,,,0,0,,389
+"LIVERFLUKE","Liver fluke",,,,,,"LF",0,0,,390
+"LLSTN","Last 'x' lacts",,,,,,,0,0,,391
+"LOST","Lost",,,,,,,0,0,,392
+"LOWPRD","Low production",,,,,,"LP",0,0,,393
+"LSTPSM","Last PSM Date",,,,,,,0,0,,394
+"LSVDTE","Last Mate Date",,,,,,,0,0,,395
+"LUMPYJAW","Lumpy jaw",,,,,,"LJ",0,0,,396
+"LUNGWORM","Lungworm",,,,,,"LU",0,0,,397
+"MA","Mastitis",,,,,,"MA",0,0,,398
+"MACRACARPA","Macrocarpa poisoning",,,"13082000 GRA Fixed",,,,0,0,,399
+"MAJOR","Major",,,,,,,0,0,,400
+"MAJORSURG","Major surgery",,,,,,,0,0,,401
+"MALE","Male Animal",,,,,,,0,0,,402
+"MALIGCATARRH","Malignant catarrh",,,"24082000 GRA Fixed",,,"CR",0,0,,403
+"MALIGOEDEMA","Malignant oedema",,,,,,"OC",0,0,,404
+"MALNUTRITION","Malnutrition",,,,,,"IT",0,0,,405
+"MANAGE","Management",,"Mgmt",,,,,0,0,,406
+"MANDEC","Management decision",,,"13082000 GRA Fixed",,,,0,0,,407
+"MANGE","Mange",,,,,,"SN",0,0,,408
+"MAST","Mastitis, unspecified",,,"13082000 GRA Fixed",,,"MA",0,0,,409
+"MASTACUTE","Mastitis, clinical",,,"also in cull",,,"MC",0,0,,410
+"MASTCHRONIC","Mastitis, subclinical",,,"also in cull,13082000 GRA Fixed",,,"MB",0,0,,411
+"MASTITIS","Mastitis",,,"13082000 GRA Added",,,"MA",0,0,,412
+"MASTREM","Mastitis",,,,,,"MA",0,0,,413
+"MASTTLES","Teat end lesions/Cracks",,,"13082000 GRA Added",,,"TL",0,0,,414
+"MASTUDDER","Udder disorder, unspecified",,,"13082000 GRA Added",,,"UD",0,0,,415
+"METDIS","Metabolic disorder, unspecified",,,"13082000 GRA Fixed",,,"ME",0,0,,416
+"METRITIS","Metritis",,,,,,,0,0,,417
+"MILK","Total Milk",,,,,,,0,0,,418
+"MILKALLERGY","Milk allergy",,,,,,"SN",0,0,,419
+"MILKSA","Milk sample",,,,,,,0,0,,420
+"MINERAL","Mineral analysis",,,,,,,0,0,,421
+"MINOR","Minor",,,,,,,0,0,,422
+"MINORSURG","Minor surgery",,,,,,,0,0,,423
+"MITES","Mites",,,"08102000 GRA Added",,,"SN",0,0,,424
+"MLKFEV","Milk fever",,,,,,"MF",0,0,,425
+"MLKLTD","LTD Milk",,,,,,,0,0,,426
+"MLKPT","Prev Tot Milk",,,,,,,0,0,,427
+"MLKTOT","Total Milk",,,,,,,0,0,,428
+"MLKTST","Test Milk",,,,,,,0,0,,429
+"MLTDAV",,,,"Milk LTD Average (l)",,,,0,0,,430
+"MLTDT",,,,"Milk LTD Total (l)",,,,0,0,,431
+"MOB","Mob",,,,,,,0,0,,432
+"MONTH","Month",,,,,,,0,0,,433
+"MOUNT","Mount Device",,,"01102001 GRA Added","AUS",,,0,0,,434
+"MOUTHUNSPEC","Mouth disorder, unspecified",,,"05092000 GRA Added",,,"MO",0,0,,435
+"MSCC","Mean Cell Count",,,,,,,0,0,,436
+"MSKELDISEASE","Musculoskeletal",,,"also cull reason",,,"LM",0,0,,437
+"MTDAYS","Empty > X Days",,,,,,,0,0,,438
+"MTSTAV","Milk Test Averag",,,"Milk Test Average (l)",,,,0,0,,439
+"MTSTT","Milk Test Tot",,,"Milk Test Total (l)",,,,0,0,,440
+"MULTI","Multiple",,,,,,,0,0,,441
+"NA","Not Applicable",,"N/A",,,,,0,0,,442
+"NAME","Name",,,,,,,0,0,,443
+"NASALGRANUL","Nasal granuloma",,,,,,"RD",0,0,,444
+"NAVELINFECT","Naval Infection",,,"24082000 GRA Added",,,"NI",0,0,,445
+"NEOSPORA","Neospora",,,,,,,0,0,,446
+"NERVOUSD","Nervous disorder, non-metabolic",,,"24082000 GRA Added",,,"ND",0,0,,447
+"NEWCOW","New Cow",,,,,,,0,0,,448
+"NM","Natural Mating",,,,,,,0,0,,449
+"NO","No",,,,,,,0,0,,450
+"NOBORN","Number Born",,,,,,,0,0,,451
+"NOEVEN","No Events",,,,,,,0,0,,452
+"NONCYCLER","Non Cycler",,,"24082000 GRA Added",,,"NC",0,0,,453
+"NONE","None",,,,,,,0,0,,454
+"NORMAL","Normal",,,,,,,0,0,,455
+"NOTPREGNANT","Empty",,,,,,"MT",0,0,,456
+"NOTSPE","Not specified",,,,,,,0,0,,457
+"NR","Non-Return",,,,,,,0,0,,458
+"NSEAS","Non-Seasonal",,,,,,,0,0,,459
+"NUMBER","Number",,,,,,,0,0,,460
+"NUMSVS","Number Services",,,,,,,0,0,,461
+"NURSOF","Nurse Off",,,,,,,0,0,,462
+"NURSON","Nurse On",,,,,,,0,0,,463
+"NVO","No visible oestrus",,,"13082000 GRA Fixed",,,,0,0,,464
+"NYMPHO","Nymphomaniac",,,,,,,0,0,,465
+"OBSERVED","Observed",,,"01102001 GRA Added","AUS",,,0,0,,466
+"OC","Other Causes",,,,,,"OC",0,0,,467
+"OD","Other Diseases",,,,,,"OD",0,0,,468
+"OESPHOGEAL","Oesphogeal disorder, unspecified",,,"05092000 GRA Added",,,"OE",0,0,,469
+"OFFOOD","Off feed",,,,,,"OC",0,0,,470
+"OGCLAW","Overgrown Claw",,,"24082000 GRA Added",,,"OG",0,0,,471
+"OLDAGE","Old age",,,,,,"OA",0,0,,472
+"ONCE","Once Daily Milk",,,,,,,0,0,,473
+"OSTERTAGIA","Ostertagia",,,"05092000 GRA Fixed",,,"OS",0,0,,474
+"OTHERC","Other causes",,,,,,"OC",0,0,,475
+"OTHERD","Other diseases",,,,,,"OC",0,0,,476
+"OTHERR","Other reasons",,,,,,,0,0,,477
+"OTHERS","Other sample",,,,,,,0,0,,478
+"OVARAD","Ovarian adhesion",,,,,,,0,0,,479
+"OVARCYST","Ovarian cyst/Neoplasm",,,"08102000 GRA Added",,,"RP",0,0,,480
+"OVARTU","Ovarian tumor",,,,,,,0,0,,481
+"OVERDU","Overdue",,,,,,,0,0,,482
+"OVERWR","Overwrite",,,,,,,0,0,,483
+"PAPSTOMA","Papular stomatitis",,,"10012000 GRA Addde",,,"MO",0,0,,484
+"PARAGASTRO","Parasitic gastroenteritis",,,"01102000 GRA Added",,,"IL",0,0,,485
+"PARASITEUNKN","Parasite, unspecified",,,"13082000 GRA Added",,,"PA",0,0,,486
+"PDRC","Preg Test Recheck",,,"13082000 GRA Fixed",,,,0,0,,487
+"PERITONITIS","Peritonitis",,,,,,"OC",0,0,,488
+"PHOTOSENSIT","Photosensitivity",,,,,,"SN",0,0,,489
+"PI","Production Index",,,,,,,0,0,,490
+"PINKEYE","Pink Eye",,,"24082000 GRA Added",,,"PE",0,0,,491
+"PLEURITIS","Pleuritis",,,,,,"RD",0,0,,492
+"PLTDAV",,,,"Protein LTD Average (kg)",,,,0,0,,493
+"PLTDT",,,,"Protein LTD Total (kg)",,,,0,0,,494
+"PM","pm",,,,,,,0,0,,495
+"PMH","Premating heat",,,,,,,0,0,,496
+"PNEUMONBACT","Pneumonia, bacterial",,,"13082000 GRA Fixed",,,"RD",0,0,,497
+"PNEUMONIA","Pneumonia, unspecified",,,"13082000 GRA Fixed",,,"RD",0,0,,498
+"PNEUMONINTER","Pneumonia, interstitial",,,"13082000 GRA Fixed",,,"RD",0,0,,499
+"PNEUMONVIRAL","Pneumonia, viral",,,"13082000 GRA Fixed",,,"RD",0,0,,500
+"POISONOTHER","Poisoning, unspecified",,,"13082000 GRA Added",,,"PO",0,0,,501
+"POISONRYE","Ryegrass staggers",,,"13082000 GRA Added",,,"RS",0,0,,502
+"POLIO","Polioenchephalomalacia",,,"04092000 GRA Added",,,"PM",0,0,,503
+"POSSIN","Possibly Include",,,,,,,0,0,,504
+"POSTNA","Postnatal Exam  ",,,,,,,0,0,,505
+"PREG","Pregnant",,,,,,,0,0,,506
+"PREGD","Preg Diagnosis  ",,,,,,,0,0,,507
+"PREGTOXAEMIA","Pregnancy toxaemia",,,,,,"PT",0,0,,508
+"PREM","Premature",,,,,,,0,0,,509
+"PRES","Present",,,,,,,0,0,,510
+"PROD","Production",,,,,,,0,0,,511
+"PROLAPSEREPL","Replace prolapse",,,,,,,0,0,,512
+"PROLRECTUM","Prolapse rectum",,,,,,"IL",0,0,,513
+"PROLTD","LTD Protein",,,,,,,0,0,,514
+"PROPC","Test Protein %",,,"Test Protein %",,,,0,0,,515
+"PROT","Protein",,,,,,,0,0,,516
+"PROTOT","Total Protein",,,,,,,0,0,,517
+"PROTPT","Prev Tot Protein",,,,,,,0,0,,518
+"PROTST","Test Protein",,,,,,,0,0,,519
+"PROTTOFAT",,,,"Protein/Fat Ratio",,,,0,0,,520
+"PROUT","Prolapsed uterus",,,,,,"PU",0,0,,521
+"PROVAG","Prolapsed vagina",,,,,,"RP",0,0,,522
+"PSMCHG","Add New PSM",,"PSM",,,,,0,0,,523
+"PSMDATE","Planned Start of Mating Date",,,"18052001 GRA Added",,,,0,0,,524
+"PSMEDIT","Edit PSM Date",,,"10102000 GRA Changed",,,,0,0,,525
+"PSMG","Psmg",,,,,,,0,0,,526
+"PSPREG","Possibly Pregnant",,,"13082000 GRA Fixed",,,,0,0,,527
+"PTPTCODE","PTPT CODE",,,"18052001 GRA Added","NZ",,,0,0,,528
+"PTSTAV",,,,"Protein Test Average (kg)",,,,0,0,,529
+"PTSTT",,,,"Protein Test Total (kg)",,,,0,0,,530
+"PURCH","Purchased",,,,,,,0,0,,531
+"PYOMET","Pyometron",,,"also in cull",,,,0,0,,532
+"RAWSCC","Raw Cell Count",,,,,,,0,0,,533
+"RDA","Abomasal displacement, right",,,,,,"AM",0,0,,534
+"REARED","Reared",,,,,,,0,0,,535
+"REASON","Reason Analysis",,,,,,,0,0,,536
+"REMCODE","Remove a code",,,,,,,0,0,,537
+"REMOVE","Remove From Herd",,"Removed",,,,,0,0,,538
+"RENUM","Renumber",,,,,,,0,0,,539
+"REPDIS","Repro problem",,,,,,"OC",0,0,,540
+"REPRODISEASE","Reproductive disorder, unspecified",,,"04092000 GRA Fixed",,,"RP",0,0,,541
+"REPROEXAM","Repro. Exam",,,"10102000 GRA Changed",,,,0,0,,542
+"RESPCULL","Respiratory problems",,,"20112000 GRA Added",,,"OC",0,0,,543
+"RESPIRATORY","Respiratory, unspecified",,,"13082000 GRA Fixed",,,"RD",0,0,,544
+"REST","Rest of Herd",,,,,,,0,0,,545
+"RETIRE","Retire a code",,,,,,,0,0,,546
+"RETMEM","Retained membranes",,,"13082000 GRA Fixed",,,"RM",0,0,,547
+"RIDE","Ride Marks",,,,,,,0,0,,548
+"RINGWORM","Ringworm",,,"04092000 GRA Added",,,"RW",0,0,,549
+"ROTAVIRUS","Rotavirus",,,"01102000 GRA Added",,,"DI",0,0,,550
+"RUMENOTOMY","Rumenotomy",,,,,,,0,0,,551
+"RUPSUSLIG","Ruptured suspensory ligament",,,"also in cull",,,"RL",0,0,,552
+"RYEGRASSCULL","Rye grass staggers",,,"20112000 GRA Added",,,"GS",0,0,,553
+"SALIVARYG","Salivary glands",,,"10012000 GRA Addde",,,"MO",0,0,,554
+"SALMONELLA","Salmonella",,,"also in diagnosis, vaccination",,,"SA",0,0,,555
+"SALMONELLACULL","Salmonella",,,"20112000 GRA Added",,,"OC",0,0,,556
+"SAMPLE","Sample",,,,,,,0,0,,557
+"SCALF","Spring Calf",,,,,,,0,0,,558
+"SCLASS","Stock Class",,,,,,,0,0,,559
+"SCOUR","Diarrhoea/Scours, unspecified",,,,,,"DI",0,0,,560
+"SEAS","Seasonal",,,,,,,0,0,,561
+"SECZEMA","Spring eczema",,,"24082000 GRA Added",,,"SE",0,0,,562
+"SELECT","Select",,,,,,,0,0,,563
+"SEPTICAEMIA","Septicaemia",,,,,,"OC",0,0,,564
+"SERV","Service",,,,,,,0,0,,565
+"SERVED","Served",,,,,,,0,0,,566
+"SERVSIRE","Service Sire",,,,,,,0,0,,567
+"SERVTYP","Service Type",,,,,,,0,0,,568
+"SEVEREINJURY","Severe Injury",,,"13082000 GRA Added",,,"SV",0,0,,569
+"SI","Sick",,,,,,"SI",0,0,,570
+"SINWKS","Stage In Weeks",,,,,,,0,0,,571
+"SIRENA","Sire name",,,,,,,0,0,,572
+"SIRLID","Sire Lifetime ID",,,,,,,0,0,,573
+"SKINMISC","Skin disorder, unspecified",,,"24082000 GRA Added",,,"SN",0,0,,574
+"SKINTB","Skin TB",,,"08102000 GRA Added",,,"SN",0,0,,575
+"SLOW","Slow milker",,,,,,"SM",0,0,,576
+"SLTDAV",,,,"Milksolids LTD Average (kg)",,,,0,0,,577
+"SLTDT",,,,"Milksolids LTD Total (kg)",,,,0,0,,578
+"SOLABS","Sole Abscess",,,,,,,0,0,,579
+"SOLD","Sold",,,"Code used for adult cow fate. see also CSOLD",,,,0,0,,580
+"SOLDBEEF","Sold (beef)",,,,,,,0,0,,581
+"SOLIDS","Milksolids",,,,,,,0,0,,582
+"SOLLTD","LTD Milksolids",,,,,,,0,0,,583
+"SOLPC","Test Mlksolid %",,,"Test Milksolid %",,,,0,0,,584
+"SOLPT","Prev Tot Msolids",,,,,,,0,0,,585
+"SOLTOT","Total Milksolids",,,,,,,0,0,,586
+"SOLTST","Test Milksolids",,,,,,,0,0,,587
+"SPECIMEN","Specimen",,,,,,,0,0,,588
+"SPECNEG","Speculum exam negative",,,"01112000 GRA Changed",,,,0,0,,589
+"SPECPOS","Speculum exam positive",,,"01112000 GRA Changed",,,,0,0,,590
+"SPRBEF","Spring Beef",,,,,,,0,0,,591
+"SPRBUL","Spring Bull",,,,,,,0,0,,592
+"SPRCOW","Spring Cow",,,,,,,0,0,,593
+"SPRHFR","Spring Heifer",,,,,,,0,0,,594
+"SPRSTR","Spring Steer",,,,,,,0,0,,595
+"STEER","Steer",,,,,,,0,0,,596
+"STOMATITIS","Stomatitis",,,,,,"IL",0,0,,597
+"STREPHPLC","Streptopen HP MC",,,,"NZIRI",,,0,0,,598
+"STREPLC","Streptopen MC",,,,"NZIRI",,,0,0,,599
+"STSTAV",,,,"Milksolids Test Average (kg)",,,,0,0,,600
+"STSTT",,,,"Milksolids Test Total (kg)",,,,0,0,,601
+"SUCKER","Sucker",,,"20112000 GRA Added",,,"SK",0,0,,602
+"SUCKLICE","Sucking lice",,,"08102000 GRA Added",,,"LC",0,0,,603
+"SUMM","Summary",,,,,,,0,0,,604
+"SURG","Surgery",,,,,,,0,0,,605
+"SWAB","Swab sample",,,,,,,0,0,,606
+"T_ABAMEC","Abamectin",,,,,,,0,1,,607
+"T_ALBADC","Albadry DC",,,"01102001 GRA Added","AUS",,,0,1,,608
+"T_AMOXLA","Amoxycillin LA",,,,,,,0,1,,609
+"T_AMOXSA","Amoxycillin SA",,,,,,,0,1,,610
+"T_AMPIDC","Ampiclox DC",,,"01102001 GRA Added","AUS",,,0,1,,611
+"T_AMPILC","Ampiclox LC",,,"01102001 GRA Added","AUS",,,0,1,,612
+"T_BOVECDC","Bovec DC",,,"01102001 GRA Added","AUS",,,0,1,,613
+"T_CALCUM","Calcium BG",,,,,,,0,1,,614
+"T_CEFTIOFUR","Ceftiofur",,,,"NZIRI",,,0,1,,615
+"T_CEPHL","Cephalexin",,,,"NZIRI",,,0,1,,616
+"T_CIDR","CIDR",,,,,,,0,1,,617
+"T_CLENBUT","Clenbuterol",,,,,,,0,1,,618
+"T_CLOSTRIDIAL","Clostridium spp.",,,,,,,0,1,,619
+"T_COPSUL","Copper sulphate",,,,,,,0,1,,620
+"T_DEXISO","Dex isoconitate",,,,,,,0,1,,621
+"T_DEXNAPH","Dex Na phosphate",,,,,,,0,1,,622
+"T_DEXTMA","Dex trimethylac",,,,,,,0,1,,623
+"T_DEXTROSE50","Dextrose 50%",,,,,,,0,1,,624
+"T_DICLOLC","Diclomam 200",,,,,,,0,1,,625
+"T_DORAMECT","Doramectin",,,,,,,0,1,,626
+"T_EBENZO","E2 benzoate",,,,,,,0,1,,627
+"T_ECOLI","E. coli",,,,,,,0,1,,628
+"T_ECYPIO","E2 cypionate",,,,,,,0,1,,629
+"T_ENRO","Enrofloxacin",,,,"NZIRI",,,0,1,,630
+"T_EPHEMERALVACC","Ephemeral Fever Vaccine",,,"01112000 GRA Added",,,,0,1,,631
+"T_ERYTH","Erythromycin",,,"also in intramamm",,,,0,1,,632
+"T_FSH","FSH",,,,,,,0,1,,633
+"T_GNRH","GnRH",,,,,,,0,1,,634
+"T_HCG","hCG",,,,,,,0,1,,635
+"T_HCGPROG","hCG prgesterone",,,,,,,0,1,,636
+"T_IVOMEC","Ivermectin",,,,,,,0,1,,637
+"T_LEPTOVACC","Leptospirosis Vaccine",,,"01112000 GRA Added",,,,0,1,,638
+"T_LEVAM","Levamisole",,,,,,,0,1,,639
+"T_MASTABLC","Mastalone blue",,,"01102001 GRA Added","AUS",,,0,1,,640
+"T_MOXIDECT","Moxidectin",,,,,,,0,1,,641
+"T_NAHCO3","Sodium bicarb",,,,,,,0,1,,642
+"T_NEODC","Neodry DC",,,"01102001 GRA Added","AUS",,,0,1,,643
+"T_NITROX","Nitroxynil",,,,,,,0,1,,644
+"T_NORGEST","Norgestomet",,,,,,,0,1,,645
+"T_NORODC","Noroclox DC",,,,,,,0,1,,646
+"T_ORBDC","Orbenin DC",,,"28/7/2004 GRA Added",,,,0,1,,792
+"T_ORBEND","Orbenin Enduro",,,"28/7/2004 GRA Added",,,,0,1,,791
+"T_ORBLA","Orbenin LA",,,"28/7/2004 GRA Added",,,,0,1,,793
+"T_OXFEND","Oxfendazole",,,,,,,0,1,,647
+"T_OXYSA","Oxytet SA",,,,,,,0,1,,648
+"T_OXYTET","Oxytetracycline",,,,,,,0,1,,649
+"T_OXYTOC","Oxytocin",,,,,,,0,1,,650
+"T_PENLA","Penicillin LA",,,,,,,0,1,,651
+"T_PENSA","Penicillin SA",,,,,,,0,1,,652
+"T_PESSAR","Pessaries",,,,,,,0,1,,653
+"T_PMSG","PMSG",,,,,,,0,1,,654
+"T_PROGEST","Progesterone",,,,,,,0,1,,655
+"T_PROPYLGLYC","Propylene glycol",,,,,,,0,1,,656
+"T_PROSTA","Prostaglandin",,,,,,,0,1,,657
+"T_RAFOX","Rafoxanide",,,,,,,0,1,,658
+"T_RICOBEND","Ricobendazol",,,,,,,0,1,,659
+"T_SALMONELLAVACC","Salmonella Vaccine",,,"01112000 GRA Added",,,,0,1,,660
+"T_STREPENVLC","Strepenvec",,,"01102001 GRA Added","AUS",,,0,1,,661
+"T_TRICLABEND","Triclabendazole",,,,,,,0,1,,662
+"T_TRISULPHA","Trimeth sulpha",,,,,,,0,1,,663
+"T_TYLO","Tylosin",,,,,,,0,1,,664
+"T_VETIM","Vetimast",,,,"NZIRI",,,0,1,,665
+"T_VIBRIOSIS","Vibriosis",,,,,,,0,1,,666
+"TAGHEIFER","Tag Animal",,"Renumber","100.00.168 KJS changed",,,,0,0,,667
+"TAIL","Tail Paint",,,"01102001 GRA Added","AUS",,,0,0,,668
+"TAILDOCK","Tail docking",,,"10102000 GRA Added",,,,0,0,,669
+"TB","Tuberculosis",,,,,,"TB",0,0,,670
+"TBREACTOR","TB reactor",,,,,,"TR",0,0,,671
+"TDOSE_CAP","capsule(s)","CAP",,"19042001 GWB Added",,,,0,0,,672
+"TDOSE_DOSE","unit(dose)","DOSE",,"16072003 GRA Added",,,,0,0,,788
+"TDOSE_GRAM","gram(s)","GRAM",,"19042001 GWB Added",,,,0,0,,673
+"TDOSE_ML","mL(s)","ML",,"19042001 GWB Added",,,,0,0,,674
+"TDOSE_TUBE","tube(s)","TUBE",,"19042001 GWB Added",,,,0,0,,675
+"TDOSE_UNIT","device(s)","UNIT",,"19042001 GWB Added",,,,0,0,,676
+"TDOSEPERIOD_D","day(s)","24",,"19042001 GWB Added",,,,0,0,,677
+"TDOSEPERIOD_H","hour(s)","1",,"19042001 GWB Added",,,,0,0,,678
+"TDOSEPERIOD_W","week(s)","168",,"19042001 GWB Added",,,,0,0,,679
+"TEATINJURY","Teat injury",,,"also in cull",,,"TI",0,0,,680
+"TEATSURGERY","Teat surgery",,,,,,,0,0,,681
+"TECH","Technician",,,,,,,0,0,,682
+"TEETHD","Teeth disease",,,"10012000 GRA Addde",,,"MO",0,0,,683
+"TERRLC","Terrexine",,,,"NZIRI",,,0,0,,684
+"TETANUS","Tetanus",,,,,,"OC",0,0,,685
+"TICKS","Ticks",,,"08102000 GRA Added",,,"SN",0,0,,686
+"TIMEFRAME","Time frame",,,,,,,0,0,,687
+"TISSUE","Tissue sample",,,,,,,0,0,,688
+"TOCULL","To Be Culled",,,,,,,0,0,,689
+"TOTAL","Total",,,,,,,0,0,,690
+"TOXIN","Toxicology",,,,,,,0,0,,691
+"TOXO","Toxoplasmosis",,,"04092000 GRA Added",,,"TO",0,0,,692
+"TPROC","Procedure",,,"25092000 GRA Added",,,,0,0,,693
+"TPROCCLVI","Calving Induction",,,"005122000 GRA Added",,,,0,0,,694
+"TRANS","Transferred",,,,,,,0,0,,695
+"TREAT","Treatment",,,,,,,0,0,,696
+"TREGIME_D","day(s)",,,,,,,0,0,,697
+"TREGIME_M","month(s)",,,,,,,0,0,,698
+"TREGIME_T","treatments",,,,,,,0,0,,699
+"TREGIME_W","week(s)",,,,,,,0,0,,700
+"UDDERABSC","Udder abscess",,,"also in cull",,,"UA",0,0,,701
+"UDDEROEDEMA","Udder oedema",,,,,,"UO",0,0,,702
+"UDRBD","Udder breakdown",,,"01112000 GRA Replaced",,,"UD",0,0,,703
+"UDRHEALTH","Udder health",,,"01112000 GRA Replaced",,,"UT",0,0,,704
+"UINFECTION","Uterine infection",,,"13082000 GRA Added",,,"UI",0,0,,705
+"ULCERSOLE","Sole ulcer",,,,,,"SU",0,0,,706
+"UNDIAGNOSED","Undiagnosed",,,,,,"SI",0,0,,707
+"UNKNWN","Unknown",,,,,,,0,0,,708
+"UNKNWNCULL","Unknown",,,"20112000 GRA Added",,,"OC",0,0,,709
+"UNRECMATING","Unrecorded Mating",,,"04062004 GRA Added",,,,0,0,,790
+"UPSET","Gastrointestinal, unspecified",,,"13082000 GRA Fixed",,,"IL",0,0,,710
+"URINE","Urine sample",,,,,,,0,0,,711
+"UTABCS","Uterine abscess",,,,,,,0,0,,712
+"UTADHN","Uterine adhesions",,,"13082000 GRA Fixed",,,,0,0,,713
+"UTNML","Uterus normal",,,,,,,0,0,,714
+"VAGINI","Vaginitis",,,,,,,0,0,,715
+"VAGINJ","Vaginal injury",,,,,,"VI",0,0,,716
+"VAGTER","Vaginal tear",,,,,,,0,0,,717
+"VAGUSINDIGES","Vagus indigeston",,,"13082000 GRA Fixed",,,"IL",0,0,,718
+"VALLTD","LTD Value",,,,,,,0,0,,719
+"VALTST","Test Value",,,,,,,0,0,,720
+"VALUE","Value",,,,,,,0,0,,721
+"VET","Vet",,,,,,,0,0,,722
+"VETIMLC","Vetimast",,,,"NZIRI",,,0,0,,723
+"VETVISITALL","All data",,,"10102000 GRA Changed",,,,0,0,,724
+"VETVISITDETAIL","Detailed Vet Sheet",,,"10102000 GRA Changed",,,,0,0,,725
+"VETVISITFARMER","Farmer's List",,,"10102000 GRA Changed",,,,0,0,,726
+"VETVISITSHEET","Vet Sheet",,,"10102000 GRA Changed",,,,0,0,,727
+"VIROL","Virology",,,,,,,0,0,,728
+"VLTDAV",,,,"Value LTD Average ($)",,,,0,0,,729
+"VLTDT",,,,"Value Test Total ($)",,,,0,0,,730
+"VRSTOF","Vet Request Off",,,,,,,0,0,,731
+"VRSTON","Vet Request On",,,,,,,0,0,,732
+"VTSTAV",,,,"Value Test Average ($)",,,,0,0,,733
+"VTSTT",,,,"Value Test Total ($)",,,,0,0,,734
+"VVCOWS","Cows Examined",,,,,,,0,0,,735
+"VVOFF","Vet Visit Off",,,,,,,0,0,,736
+"VVRQST","Vet Visit Request",,,"13082000 GRA Fixed",,,,0,0,,737
+"VVSUMM","Visit Summary",,,,,,,0,0,,738
+"WARTS","Warts",,,"04092000 GRA Added",,,"WA",0,0,,739
+"WCGPHY CS GL",,,,"Average monthly CS gain/loss",,,,0,0,,740
+"WCGPHY CS NO",,,,"Number scored",,,,0,0,,741
+"WCGPHY CS TA",,,,"Target condition score",,,,0,0,,742
+"WCGPHY CSAVG",,,,"Average condition score",,,,0,0,,743
+"WCGPHY CSMAX",,,,"Maximum condition score",,,,0,0,,744
+"WCGPHY CSMIN",,,,"Minimum condition score",,,,0,0,,745
+"WCGPHY WT GL",,,,"Average daily weight gain/loss",,,,0,0,,746
+"WCGPHY WT NO",,,,"Number weighed",,,,0,0,,747
+"WCGPHY WT TA",,,,"Target weight",,,,0,0,,748
+"WCGPHY WTAVG",,,,"Average weight",,,,0,0,,749
+"WCGPHY WTMAX",,,,"Maximum weight",,,,0,0,,750
+"WCGPHY WTMIN",,,,"Minimum weight",,,,0,0,,751
+"WCS1","Date",,,,,,,0,0,,752
+"WCS10","Daily Change",,,,,,,0,0,,753
+"WCS2","Number",,,,,,,0,0,,754
+"WCS3","Age",,,,,,,0,0,,755
+"WCS4","DSC",,,,,,,0,0,,756
+"WCS5","Mean",,,,,,,0,0,,757
+"WCS6","Std Dev",,,,,,,0,0,,758
+"WCS7","Min",,,,,,,0,0,,759
+"WCS8","Max",,,,,,,0,0,,760
+"WCS9","Interval Change",,,,,,,0,0,,761
+"WEEK","Week",,,,,,,0,0,,762
+"WGT","Weight",,,"10102000 GRA Changed",,,,0,0,,763
+"WGTLOS","Weight loss",,,,,,"IT",0,0,,764
+"WHANIMAL","Withhold animal",,,"07022001 GRA Added",,,,0,0,,765
+"WOODENTONGUE","Wooden tongue",,,,,,"WT",0,0,,766
+"WTLINE","White line disease",,,"13082000 GRA Fixed",,,"WL",0,0,,767
+"YERSIN","Yersinia",,,"13082000 GRA Added",,,"YS",0,0,,768
+"YES","Yes",,,,,,,0,0,,769
+"YTDO","Yet to do",,,,,,,0,0,,770
+"ZOONOSES","Infectious, unspecified",,,"08102000 GRA Added",,,"XX",0,0,,771
